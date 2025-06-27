@@ -9,6 +9,12 @@
 
 ## 🛠️ Habilidades técnicas
 
+![AutoCAD](https://img.shields.io/badge/AutoCAD-FF9900?logo=autocad&logoColor=white)
+![ArcGIS](https://img.shields.io/badge/ArcGIS-00743F?logo=arcgis&logoColor=white)
+![QGIS]( https://img.shields.io/badge/QGIS-5C3D2E?logo=qgis&logoColor=white)
+![Jupyter]( https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
+![JavaScript]( https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+
 - **Software GIS:** ArcGis, QGIS, Agisoft Metashape  
 - **Diseño topográfico:** AutoCAD Civil 3D  
 - **Procesamiento GNSS:** GNSS Solutions  
@@ -33,7 +39,7 @@
 - Herramientas: Python, Pandas, Matplotlib  
 - Objetivo: Tomar decisiones informadas basadas en datos históricos  
 
-🔗 [Ver proyecto](https://github.com/RafaelRomeroTechDev/Challenge_Alura_Store )
+🔗 [Ver proyecto]( https://github.com/RafaelRomeroTechDev/Challenge_Alura_Store )
 
 ---
 
